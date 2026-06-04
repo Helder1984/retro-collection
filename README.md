@@ -17,7 +17,7 @@ Cada coleção utiliza uma identidade visual própria e segue um padrão consist
 | Temporada | Tema | Status |
 |------------|--------|--------|
 | Season 00 | Super Mario Bros | Concluído |
-| Season 01 | Em Planejamento | Em Desenvolvimento |
+| Season 01 |  Kirby 64: The Crystal Shards | Em Desenvolvimento |
 
 ---
 
@@ -42,6 +42,6 @@ portfolio/
 ## Roadmap
 
 - [x] Season 00 - Super Mario Bros
-- [ ] Season 01
+- [ ] Season 01 -  Kirby 64: The Crystal Shards
 - [ ] Season 02
 - [ ] Season 03
