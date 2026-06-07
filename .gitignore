@@ -1,21 +1,13 @@
+# Photoshop
+*.psd
+*.PSD
+
+*.psb
+*.PSB
+
+# Editable folders
+editable/
+source/
+
 # Print files
 **/print/
-
-# Editable project files
-*.psd
-*.xcf
-*.afphoto
-
-# High resolution exports
-*.tif
-*.tiff
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# macOS
-.DS_Store
-
-# VS Code local settings
-.vscode/settings.json
