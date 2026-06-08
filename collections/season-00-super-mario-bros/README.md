@@ -46,7 +46,7 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 |------|------|------|------|
 | ![](cards/17.jpg) | ![](cards/26.jpg) | ![](cards/51.jpg) | ![](cards/64.jpg) |
 
----
+----
 
 ## Documentation
 
