@@ -30,6 +30,7 @@ Based on Kirby 64: The Crystal Shards, this collection aims to capture the chara
 ## Documentation
 
 - [Collection Specification](collections-specification.md)
+- [Character List](character-list.md)
 - [Card Index](card-index.md)
 
 ---
