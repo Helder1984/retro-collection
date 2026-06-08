@@ -33,6 +33,10 @@ Inspired by the original Super Mario Bros universe.
 
 [Season 00 — Super Mario Bros](collections/season-00-super-mario-bros)
 
+
+### 🌟 Season 01 — Kirby 64: The Crystal Shards
+Status: In Development
+
 ---
 
 ## Project Structure
