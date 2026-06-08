@@ -4,6 +4,7 @@ A collectible card project inspired by the promotional collectibles, tazos and l
 
 The goal of this project is to design, document and preserve original collectible card collections based on classic games and retro culture.
 
+|------|------|------|------|
 | ![](collections/season-00-super-mario-bros/cards/17.jpg) | ![](collections/season-00-super-mario-bros/cards/26.jpg) | ![](collections/season-00-super-mario-bros/cards/51.jpg) | ![](collections/season-00-super-mario-bros/cards/64.jpg) |
 
 ---
