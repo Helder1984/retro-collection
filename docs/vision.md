@@ -1,30 +1,31 @@
 # Retro Collection
 
-## Visão
+## Overview
 
-Retro Collection é um projeto independente de cards colecionáveis inspirado nos brindes promocionais distribuídos durante as décadas de 1980 e 1990.
+Retro Collection is an independent collectible card project inspired by the promotional giveaways and collectibles distributed throughout the 1980s and 1990s.
 
-O projeto busca recriar a experiência de colecionar personagens de videogames clássicos através de uma identidade visual própria, mantendo a nostalgia dos colecionáveis da época.
+The project aims to recreate the experience of collecting classic video game characters through a unique visual identity while preserving the nostalgia associated with retro collectibles from that era.
 
-## Objetivos
+## Objectives
 
-- Criar coleções completas de personagens retrô.
-- Desenvolver um sistema visual consistente.
-- Documentar todo o processo criativo.
-- Produzir material para portfólio.
-- Criar versões físicas imprimíveis.
-- Compartilhar a evolução do projeto publicamente.
+- Create complete collections of retro gaming characters.
+- Develop a consistent visual system.
+- Document the entire creative process.
+- Produce portfolio-quality material.
+- Create printable physical versions.
+- Share the project's evolution publicly.
 
-## Público-alvo
+## Target Audience
 
-- Colecionadores
-- Fãs de videogames clássicos
+- Collectors
+- Classic video game fans
 - Designers
-- Entusiastas de nostalgia retrô
+- Retro nostalgia enthusiasts
 
-## Status Atual
+## Current Status
 
-Season 00 concluída:
+### Season 00 Completed
+
 - Super Mario Bros
 - 64 cards
-- Impressão física realizada
+- Physical edition produced
