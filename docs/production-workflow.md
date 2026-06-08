@@ -1,18 +1,18 @@
 # Production Workflow
 
-## Objetivo
+## Objective
 
-Documentar o processo padrão de criação dos cards Retro Collection.
+Document the standard creation process used for Retro Collection cards.
 
 ---
 
-# Etapa 1 - Planejamento
+# Stage 1 — Planning
 
-## Seleção do Tema
+## Theme Selection
 
-Definir a coleção.
+Define the collection theme.
 
-Exemplos:
+Examples:
 
 - Super Mario Bros
 - Sonic the Hedgehog
@@ -22,15 +22,15 @@ Exemplos:
 
 ---
 
-## Levantamento de Personagens
+## Character Research
 
-Criar uma lista completa dos personagens que farão parte da coleção.
+Create a complete list of characters that will be included in the collection.
 
 ---
 
-## Definição da Quantidade
+## Collection Size Definition
 
-Exemplos:
+Examples:
 
 - 32 cards
 - 64 cards
@@ -38,100 +38,105 @@ Exemplos:
 
 ---
 
-# Etapa 2 - Preparação
+# Stage 2 — Preparation
 
-## Pesquisa
+## Research
 
-Buscar a imagem do personagem no material oficial ou o mais proximo possivel do original
-
----
-
-## Seleção da Imagem
-
-Escolher a imagem que melhor representa o personagem.
-
-Critérios:
-
-- Boa leitura visual
-- Fundo removível
-- Aparência fiel ao jogo
+Search for official character artwork or the closest possible representation of the original source material.
 
 ---
 
-# Etapa 3 - Produção
+## Image Selection
 
-## Personagem
+Choose the image that best represents the character.
 
-Refazer o personagem em alta resolução mantendo o maximo possivel a fidelidade ao material original
+### Criteria
 
-itidez
-
----
-
-# Etapa 4 - Montagem
-
-## Abrir Template
-
-Utilizar o template oficial Retro Collection.
+- Strong visual readability
+- Removable background
+- Faithful appearance to the original game
 
 ---
 
-## Inserir Personagem
+# Stage 3 — Production
 
-Posicionar personagem.
+## Character Reconstruction
 
----
+Recreate the character in high resolution while preserving as much fidelity as possible to the original source material.
 
-## Aplicar Nome
+### Goals
 
-Inserir nome oficial.
-
----
-
-## Aplicar Número
-
-Inserir número da coleção.
+- High image quality
+- Clean edges
+- Accurate colors
+- Sharp details
 
 ---
 
-# Etapa 5 - Revisão
+# Stage 4 — Card Assembly
 
-Verificar:
+## Open Template
 
-- Ortografia
-- Nome
-- Número
-- Alinhamento
-- Bordas
-- Qualidade visual
+Use the official Retro Collection template.
 
 ---
 
-# Etapa 6 - Exportação
+## Insert Character
 
-Exportar:
-
-PNG
+Position the character artwork.
 
 ---
 
-# Etapa 7 - Impressão
+## Apply Character Name
 
-Preparar folha de impressão.
+Insert the official character name.
 
 ---
 
-# Etapa 8 - Arquivamento
+## Apply Card Number
 
-Salvar:
+Insert the collection card number.
 
-- Arquivo editável
-- PNG final
-- Versão impressa
+---
+
+# Stage 5 — Review
+
+Verify:
+
+- Spelling
+- Character name
+- Card number
+- Alignment
+- Borders
+- Visual quality
+
+---
+
+# Stage 6 — Export
+
+Export:
+
+- PNG
+
+---
+
+# Stage 7 — Printing
+
+Prepare the print sheet.
+
+---
+
+# Stage 8 — Archiving
+
+Save:
+
+- Editable source file
+- Final PNG
+- Printed version
 - Mockups
 
 ---
 
 # Status
 
-Aprovado para publicação.
+Approved for publication.
