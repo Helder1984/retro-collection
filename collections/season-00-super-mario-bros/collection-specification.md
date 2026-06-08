@@ -1,56 +1,53 @@
-# Season 00 - Super Mario Bros
+# Season 00 — Super Mario Bros
 
-## Informações Gerais
+## General Information
 
-Tema: Super Mario Bros
+Theme: Super Mario Bros
 
-Código: S00
+Code: S00
 
-Quantidade: 64 cards
+Card Count: 64
 
-Status: Concluída
+Status: Completed
 
-Impressão Física: Sim
+Physical Edition: Produced
 
-Ano: 2026
-
----
-
-## Objetivo
-
-Primeira coleção da Retro Collection.
-
-Desenvolvida para validar o sistema visual,
-processo de produção e impressão.
+Year: 2026
 
 ---
 
-## Estatísticas
+## Objective
 
-Total de cards: 64
+The first collection of the Retro Collection project.
 
-## Estatísticas
-
-TOTAL DE CARDS: 64
-
-Cards de Heróis: 31
-
-Cards de Inimigos: 19
-
-Cards de Chefes: 01
-
-Cards de Itens: 10
-
-Cards de Telas: 03
+Developed to validate the visual system, production workflow, and printing process.
 
 ---
 
-## Sistema de Numeração
+## Statistics
 
-01 a 64
+### Card Distribution
+
+Total Cards: 64
+
+Hero Cards: 31
+
+Enemy Cards: 19
+
+Boss Cards: 1
+
+Item Cards: 10
+
+Screen Cards: 3
 
 ---
 
-## Observações
+## Numbering System
 
-Coleção fundadora da Retro Collection.
+Cards numbered from 01 to 64.
+
+---
+
+## Notes
+
+Founding collection of the Retro Collection project.
