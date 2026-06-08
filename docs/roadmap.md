@@ -1,29 +1,29 @@
 # Roadmap
 
-## Concluído
+## Completed
 
 ### Season 00
 
 Super Mario Bros
 
-Status: Concluído
+Status: Complete
 
 Cards: 64
 
-Impressão: Sim
+Physical Version: Produced
 
 ---
 
-## Em Planejamento
+## In Planning
 
 ### Season 01
 
-Tema: Kirby 64: The Crystal Shards
+Theme: Kirby 64: The Crystal Shards
 
-Status: Planejamento
+Status: Planning
 
 ---
 
-## Futuras Coleções
+## Future Collections
 
 - Toriko
