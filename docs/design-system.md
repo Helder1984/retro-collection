@@ -1,65 +1,65 @@
 # Design System
 
-## Projeto
+## Project
 
 Retro Collection
 
 ---
 
-## Formato
+## Format
 
-Card colecionável vertical.
-
----
-
-## Estilo
-
-Inspirado nos brindes promocionais dos anos 80 e 90.
+Vertical collectible card.
 
 ---
 
-## Estrutura Visual
+## Style
 
-1. Logo Retro Collection
-2. Número do card
-3. Personagem
-4. Nome do personagem
-5. Fundo
+Inspired by collectible promotional items and licensed merchandise popular throughout the 1980s and 1990s.
 
 ---
 
-## Numeração
+## Visual Structure
+
+1. Retro Collection logo
+2. Card number
+3. Character artwork
+4. Character name
+5. Background
+
+---
+
+## Numbering System
 
 ### Season 00
 
-Formato:
+Format:
 
-01
-02
-03
+01  
+02  
+03  
 ...
 
-Coleção concluída com 64 cards.
+Collection completed with 64 cards.
 
 ---
 
-## Temporadas Futuras
+## Future Seasons
 
-Numeração contínua global.
+Continuous global numbering.
 
-Exemplo:
+Example:
 
-65
-66
-67
+65  
+66  
+67  
 ...
 
 ---
 
-## Objetivos Visuais
+## Visual Objectives
 
 - Nostalgia
-- Legibilidade
-- Impacto visual
-- Fácil identificação dos personagens
-- Consistência entre coleções
+- Readability
+- Visual impact
+- Easy character identification
+- Consistency across collections
