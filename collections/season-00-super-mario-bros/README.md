@@ -30,7 +30,7 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 ## Design Features
 
 - Retro-inspired collectible card design
-- Gold frame visual system
+- Frame visual system
 - Sequential card numbering
 - Print-ready format
 - Consistent visual identity
@@ -40,9 +40,11 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 
 ## Collection Overview
 
-The image below shows the complete collection.
+## Featured Cards
 
-![Overview](previews/overview.jpg)
+| #01 | #16 | #32 | #64 |
+|------|------|------|------|
+| ![](cards/17.jpg) | ![](cards/26.jpg) | ![](cards/51.jpg) | ![](cards/64.jpg) |
 
 ---
 
