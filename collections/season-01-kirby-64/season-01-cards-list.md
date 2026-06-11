@@ -1,4 +1,4 @@
-# Character List
+# Cards List
 
 ## Collection Information
 
@@ -78,7 +78,6 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 101 | Fire Arrow |
 | 102 | Static Electricity |
 | 103 | Fire Sword |
 | 104 | Melting Ice Cube |
@@ -99,6 +98,7 @@ Status: In Development
 | 119 | Curling Stone |
 | 120 | Exploding Snowman |
 | 121 | Dynamite |
+| 122 | Fire Arrow |
 
 ---
 
@@ -106,7 +106,6 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 122 | Bivolt |
 | 123 | Blowfish |
 | 124 | Bo |
 | 125 | Bobo |
@@ -172,13 +171,14 @@ Status: In Development
 | 185 | Whispy Woods Jr. |
 | 186 | Yariko |
 | 187 | Zoos |
+| 188 | Bivolt |
+
 ---
 
 # Bosses
 
 | Nº | Name |
 |----|-----------|
-| 188 | 0² |
 | 189 | Pix |
 | 190 | Waddle Doo |
 | 191 | Adeleine |
@@ -188,6 +188,7 @@ Status: In Development
 | 195 | Magman |
 | 196 | HR-H |
 | 197 | Miracle Matter |
+| 198 | 0² |
 
 ---
 
@@ -195,11 +196,11 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 198 | Blue Star |
 | 199 | 1 UP |
 | 200 | Maxim Tomato |
 | 201 | Crystal Shard |
 | 202 | Yellow Star |
+| 203 | Blue Star |
 
 ---
 
@@ -208,12 +209,12 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 203 | Gardo |
 | 204 | Shotzo |
 | 205 | Splinter |
 | 206 | I³ |
 | 207 | Whall Shotzo |
 | 208 | Zebon |
+| 209 | Gardo |
 ---
 
 # Notes
