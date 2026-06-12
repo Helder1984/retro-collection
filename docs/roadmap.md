@@ -14,7 +14,7 @@ Physical Version: Produced
 
 ---
 
-## In Planning
+## Asset Acquisition
 
 ### Season 01
 
