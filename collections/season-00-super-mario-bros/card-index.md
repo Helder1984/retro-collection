@@ -2,67 +2,67 @@
 
 | Nº | Nome |
 |----|------|
-| 01 | Mini Mario |
-| 02 | Mini Mario |
-| 03 | Mini Mario |
-| 04 | Mini Mario |
-| 05 | Mini Luigi |
-| 06 | Mini Luigi |
-| 07 | Mini Luigi |
-| 08 | Mini Luigi |
-| 09 | Fire Mario |
-| 10 | Fire Mario |
-| 11 | Mario |
-| 12 | Mario |
-| 13 | Mario |
-| 14 | Mario |
-| 15 | Mario |
-| 16 | Mario |
-| 17 | Mario |
-| 18 | Mario |
-| 19 | Fire Luigi |
-| 20 | Fire Luigi |
-| 21 | Luigi |
-| 22 | Luigi |
-| 23 | Luigi |
-| 24 | Luigi |
-| 25 | Luigi |
-| 26 | Luigi |
-| 27 | Luigi |
-| 28 | Luigi |
-| 29 | Mini Peach |
-| 30 | Peach |
-| 31 | Toad |
-| 32 | Tela |
-| 33 | Tela |
-| 34 | Tela |
-| 35 | Bullet Bill |
-| 36 | Bill Blaster |
-| 37 | Koopa Troopa |
-| 38 | Koopa Troopa |
-| 39 | Casco do Koopa |
-| 40 | Koopa Troopa |
-| 41 | Koopa Troopa |
-| 42 | Casco do Koopa |
-| 43 | Buzzy Beetle |
-| 44 | Casco do Buzzy Beetle |
-| 45 | Spiny |
-| 46 | Podobo |
-| 47 | Piranha Plant |
-| 48 | Piranha Plant |
-| 49 | Cheep Cheep |
-| 50 | Cheep Cheep |
-| 51 | Goomba |
-| 52 | Goomba |
-| 53 | Goomba |
-| 54 | Blooper |
-| 55 | Hammer Bro |
-| 56 | Lakitu |
-| 57 | Trampolim |
-| 58 | Trampolim |
-| 59 | Moeda |
-| 60 | Super Cogumelo |
-| 61 | Cogumelo 1 UP |
-| 62 | Fire Flower |
-| 63 | Star |
-| 64 | Bowser |
+| 001 | Mini Mario - Walking |
+| 002 | Mini Mario - Die|
+| 003 | Mini Mario - Stopped |
+| 004 | Mini Mario - Jumping |
+| 005 | Mini Luigi - Walking |
+| 006 | Mini Luigi - Die |
+| 007 | Mini Luigi - Stopped|
+| 008 | Mini Luigi - Jumping|
+| 009 | Fire Mario |
+| 010 | Fire Mario - Attack |
+| 011 | Mario - Lowered |
+| 012 | Mario - Walking |
+| 013 | Mario - Skidding |
+| 014 | Mario - Descending |
+| 015 | Mario - Stopped |
+| 016 | Mario - Jumping |
+| 017 | Mario - Victory |
+| 018 | Mario - Swimming |
+| 019 | Fire Luigi |
+| 020 | Fire Luigi - Attack |
+| 021 | Luigi - Lowered |
+| 022 | Luigi - Walking |
+| 023 | Luigi - Skidding |
+| 024 | Luigi - Descending |
+| 025 | Luigi - Stopped |
+| 026 | Luigi - Jumping |
+| 027 | Luigi - Victory |
+| 028 | Luigi - Swimming3|
+| 029 | Mini Peach |
+| 030 | Peach |
+| 031 | Toad |
+| 032 | Screen - Game Over |
+| 033 | Screen - Luigi Time Up |
+| 034 | Screen - Mario Time Up |
+| 035 | Bullet Bill |
+| 036 | Bill Blaster |concha de koopa
+| 037 | Koopa Troopa - Red |
+| 038 | Koopa Troopa with Wings - Red |
+| 039 | Koopa Shell - Red |
+| 040 | Koopa Troopa - Green |
+| 041 | Koopa Troopa with Wings - Green |
+| 042 | Koopa Shell - Green |
+| 043 | Buzzy Beetle |
+| 044 | Buzzy Beetle Shell |
+| 045 | Spiny |
+| 046 | Podobo |
+| 047 | Piranha Plant - Red |
+| 048 | Piranha Plant - Green |
+| 049 | Cheep Cheep - Red |
+| 050 | Cheep Cheep - Green |
+| 051 | Goomba - Normal |
+| 052 | Goomba - Underground |
+| 053 | Goomba - Castle |
+| 054 | Blooper |
+| 055 | Hammer Bro |
+| 056 | Lakitu |
+| 057 | Trampolim - Red |
+| 058 | Trampolim - Green |
+| 059 | Moeda |
+| 060 | Super Cogumelo |
+| 061 | Cogumelo 1 UP |
+| 062 | Fire Flower |
+| 063 | Star |
+| 064 | Bowser |
