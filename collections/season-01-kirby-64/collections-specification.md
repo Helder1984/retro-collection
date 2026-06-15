@@ -6,7 +6,7 @@ Theme: Kirby 64: The Crystal Shards
 
 Code: S01
 
-Card Count: ??
+Card Count: 145
 
 Status: Development
 

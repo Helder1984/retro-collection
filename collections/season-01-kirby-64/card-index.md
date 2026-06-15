@@ -201,7 +201,7 @@ Status: In Development
 | 200 | 1 UP |
 | 201 | Maxim Tomato |
 | 202 | Crystal Shard |
-| 203 | Yellow Star |*
+| 203 | Yellow Star |
 | 204 | Ability Stars |
 
 ---
@@ -211,12 +211,12 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 206 | Shotzo |
-| 207 | Splinter |
-| 208 | I³ |
-| 209 | Whall Shotzo |
-| 210 | Zebon |
-| 211 | Gordo |
+| 205 | Shotzo |
+| 206 | Splinter |
+| 207 | I³ |
+| 208 | Whall Shotzo |
+| 209 | Zebon |
+| 210 | Gordo |
 ---
 
 # Notes
