@@ -21,14 +21,14 @@ Status: In Development
 | 069 | Kirby Jumping \ Flying|
 | 070 | Kirby Ducking |
 | 071 | Kirby Slide |
-| 072 | Kirby Jumpimg Down |
+| 072 | Kirby Through Platform |
 | 073 | Kirby Swimming |
 | 074 | Kirby Inhaling |
 | 075 | Kirby Swallowing |
 | 076 | Kirby Spitting Out |
 | 077 | Kirby Holding Enemies |
 | 078 | Kirby Holding Power Star |
-| 079 | Kirby Throw |
+| 079 | Kirby Throwing |
 | 080 | Fairy Queen |
 | 081 | Ribbon |
 | 082 | Waddle Dee |
@@ -44,6 +44,7 @@ Status: In Development
 | 085 | Kine Statue |
 | 086 | Nago Statue |
 | 087 | Pitch Statue |
+| 088 | Rick Statue |
 
 ---
 
@@ -51,26 +52,26 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 088 | Bomb |
 | 089 | Cutter |
 | 090 | Burn |
 | 091 | Ice |
 | 092 | Needle |
 | 093 | Spark |
 | 094 | Stone |
+| 095 | Bomb |
 
 ---
 
 # Double Abilities
 | Nº | Name |
 |----|-----------|
-| 095 | Missiles |
 | 096 | Super Cutter |
 | 097 | Fire Bird |
 | 098 | Giant Snowball |
 | 099 | Spiky Objects |
 | 100 | Area Spark |
 | 101 | Ultra Stone |
+| 102 | Missiles | 
 
 ---
 
@@ -78,27 +79,27 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 102 | Static Electricity |
-| 103 | Fire Sword |
-| 104 | Melting Ice Cube |
-| 105 | Volcano |
-| 106 | Fireworks |
-| 107 | Lightning Rod |
-| 108 | Snare |
-| 109 | Snowflake |
-| 110 | Drill |
-| 111 | Exploding Gordo |
-| 112 | Light Saber |
-| 113 | Refrigerator |
-| 114 | Electrified Boulder |
-| 115 | Light Bulb |
-| 116 | Ice Skates |
-| 117 | Stone Friends |
-| 118 | Exploding Shuriken |
-| 119 | Curling Stone |
-| 120 | Exploding Snowman |
-| 121 | Dynamite |
-| 122 | Fire Arrow |
+| 103 | Curling Stone |
+| 104 | Drill |
+| 105 | Dynamite |
+| 106 | Electrified Boulder |
+| 107 | Exploding Gordo |
+| 108 | Exploding Shuriken|
+| 109 | Exploding Snowman |
+| 110 | Fire Arrow |
+| 111 | Fire Sword |
+| 112 | Fireworks |
+| 113 | Ice Skates |
+| 114 | Light Bulb |
+| 115 | Lightning Rod |
+| 116 | Light Saber |
+| 117 | Melting Ice Cube |
+| 118 | Refrigerator |
+| 119 | Snare |
+| 120 | Snowflake |
+| 121 | Static Electricity |
+| 122 | Stone Friends |
+| 123 | Volcano |
 
 ---
 
@@ -106,72 +107,73 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 123 | Blowfish |
-| 124 | Bo |
-| 125 | Bobo |
-| 126 | Bonehead |
-| 127 | Bouncy |
-| 128 | Bronto Burt |
-| 129 | Bumber |
-| 130 | Burnis |
-| 131 | Cairn |
-| 132 | Chacha |
-| 133 | Chilly |
-| 134 | Drop |
-| 135 | Emp |
-| 136 | Fishbone |
-| 137 | Flopper |
-| 138 | Flora |
-| 139 | Frigis |
-| 140 | Galbo |
-| 141 | Gabon |
-| 142 | Ghost Knight |
-| 143 | Glom |
-| 144 | Glunk |
-| 145 | Gobblin |
-| 146 | Hack |
-| 147 | Ignus |
-| 148 | Kacti |
-| 149 | Kany |
-| 150 | Kapar |
-| 151 | Keke |
-| 152 | Magoo |
-| 153 | Mahall |
-| 154 | Mariel |
-| 155 | Maw |
-| 156 | Mite |
-| 157 | Mopoo |
-| 158 | Mumbies |
-| 159 | N-Z |
-| 160 | Noo |
-| 161 | Nruff |
-| 162 | Pedo |
-| 163 | Plugg |
-| 164 | Pompey |
-| 165 | Poppy Bros. Jr. |
-| 166 | Propeller |
-| 167 | Pteran |
-| 168 | Punc |
-| 169 | Pupa |
-| 170 | Putt |
-| 171 | Rockn |
-| 172 | Rocky |
-| 173 | Sandman |
-| 174 | Sawyer |
-| 175 | Scarfy |
-| 176 | Sir Kibble |
-| 177 | Skud |
-| 178 | Slushy |
-| 179 | Snipper |
-| 180 | Spark-i |
-| 181 | Sparky |
-| 182 | Squibby |
-| 183 | Tick |
-| 184 | Turbite |
-| 185 | Whispy Woods Jr. |
-| 186 | Yariko |
-| 187 | Zoos |
-| 188 | Bivolt |
+| 124 | Bivolt |
+| 125 | Blowfish |
+| 126 | Bo |
+| 127 | Bobo |
+| 128 | Bonehead |
+| 129 | Bouncy |
+| 130 | Bronto Burt |
+| 131 | Bumber |
+| 132 | Burnis |
+| 133 | Cairn |
+| 134 | Chacha |
+| 135 | Chilly |
+| 136 | Drop |
+| 137 | Emp |
+| 138 | Fishbone |
+| 139 | Flopper |
+| 140 | Flora |
+| 141 | Frigis |
+| 142 | Galbo |
+| 143 | Gabon |
+| 144 | Ghost Knight |
+| 145 | Glom |
+| 146 | Glunk |
+| 147 | Gobblin |
+| 148 | Hack |
+| 149 | Ignus |
+| 150 | Kacti |
+| 151 | Kany |
+| 152 | Kapar |
+| 153 | Keke |
+| 154 | Magoo |
+| 155 | Mahall |
+| 156 | Mariel |
+| 157 | Maw |
+| 158 | Mite |
+| 159 | Mopoo |
+| 160 | Mumbies |
+| 161 | N-Z |
+| 162 | Noo |
+| 163 | Nruff |
+| 164 | Pedo |
+| 165 | Plugg |
+| 166 | Pompey |
+| 167 | Poppy Bros. Jr. |
+| 168 | Propeller |
+| 169 | Pteran |
+| 170 | Punc |
+| 171 | Pupa |
+| 172 | Putt |
+| 173 | Rockn |
+| 174 | Rocky |
+| 175 | Sandman |
+| 176 | Sawyer |
+| 177 | Scarfy |
+| 178 | Sir Kibble |
+| 179 | Skud |
+| 180 | Slushy |
+| 181 | Snipper |
+| 182 | Spark-i |
+| 183 | Sparky |
+| 184 | Squibby |
+| 185 | Tick |
+| 186 | Turbite |
+| 187 | Whispy Woods Jr. |
+| 188 | Yariko |
+| 189 | Zoos |
+
 
 ---
 
@@ -179,16 +181,16 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 189 | Pix |
-| 190 | Waddle Doo |
-| 191 | Adeleine |
-| 192 | King Dedede |
-| 193 | Whispy Woods |
-| 194 | Acro |
-| 195 | Magman |
-| 196 | HR-H |
-| 197 | Miracle Matter |
-| 198 | 0² |
+| 190 | Pix |
+| 191 | Waddle Doo |
+| 192 | Adeleine |
+| 193 | King Dedede |
+| 194 | Whispy Woods |
+| 195 | Acro |
+| 196 | Magman |
+| 197 | HR-H |
+| 198 | Miracle Matter |
+| 199 | 0² |
 
 ---
 
@@ -196,11 +198,11 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 199 | 1 UP |
-| 200 | Maxim Tomato |
-| 201 | Crystal Shard |
-| 202 | Yellow Star |
-| 203 | Blue Star |
+| 200 | 1 UP |
+| 201 | Maxim Tomato |
+| 202 | Crystal Shard |
+| 203 | Yellow Star |*
+| 204 | Ability Stars |
 
 ---
 
@@ -209,12 +211,12 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 204 | Shotzo |
-| 205 | Splinter |
-| 206 | I³ |
-| 207 | Whall Shotzo |
-| 208 | Zebon |
-| 209 | Gardo |
+| 206 | Shotzo |
+| 207 | Splinter |
+| 208 | I³ |
+| 209 | Whall Shotzo |
+| 210 | Zebon |
+| 211 | Gordo |
 ---
 
 # Notes
