@@ -71,8 +71,7 @@ Retro Collection/
 ### Planned
 
 - [ ] Season 01 - Kirby 64: The Crystal Shards | Em Desenvolvimento |
-- [ ] Season 02
-- [ ] GitHub Pages Website
+- [ ] Cards Holders
 
 ---
 
