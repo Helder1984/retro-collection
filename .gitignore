@@ -6,8 +6,13 @@
 *.PSB
 
 # Editable folders
-editable/
-source/
+templates/
 
 # Print files
 **/print/
+
+# Assets Files
+**/assets/
+
+# Photoshop automation script for batch exporting card files as PNG images
+*.jsx

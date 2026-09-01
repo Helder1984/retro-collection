@@ -62,7 +62,7 @@ Choose the image that best represents the character.
 
 ## Character Reconstruction
 
-Recreate the character in high resolution while preserving as much fidelity as possible to the original source material.
+Recreate the character in high resolution using the original in-game images as reference, reimagining it in the Retro Collection style.
 
 ### Goals
 
@@ -83,19 +83,31 @@ Use the official Retro Collection template.
 
 ## Insert Character
 
-Position the character artwork.
+Position the character or item artwork.
 
 ---
 
-## Apply Character Name
+## Apply Background
 
-Insert the official character name.
+Insert a background that matches the color palette of the character or item.
 
 ---
 
 ## Apply Card Number
 
-Insert the collection card number.
+Insert the collection card number and the number frame designed for the selected background.
+
+---
+
+## Aply logo
+
+Insert the logo designed for the selected background.
+
+---
+
+## Apply Character Name
+
+Insert the official character name with the effects designed for the selected background.
 
 ---
 
@@ -133,7 +145,6 @@ Save:
 - Editable source file
 - Final PNG
 - Printed version
-- Mockups
 
 ---
 

@@ -14,16 +14,26 @@ Physical Version: Produced
 
 ---
 
-## Asset Acquisition
+## Print
 
 ### Season 01
 
 Theme: Kirby 64: The Crystal Shards
 
-Status: Planning
+Status: Ready PNGs
+
+Cards: 146
+
+---
+
+## Next Step
+
+### Develop
+
+Cards holders for the two complete collections.
+
+###
 
 ---
 
 ## Future Collections
-
-- Toriko

@@ -1,5 +1,7 @@
 # 🍄 Season 00 — Super Mario Bros
 
+## Collection Overview
+
 ![Collection Overview](previews/overview.jpg)
 
 ---
@@ -23,8 +25,9 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 | Card Size | 4 cm × 6 cm |
 | Resolution | 300 DPI |
 | Format | Physical Collectible Cards |
-| Numbering | 01–64 |
-
+| Numbering | 001–064 |
+| Platform | NES |
+| Release Year | 1983 |
 ---
 
 ## Design Features
@@ -38,11 +41,10 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 
 ---
 
-## Collection Overview
 
 ## Featured Cards
 
-| #01 | #16 | #32 | #64 |
+| # 001 | # 016 | # 032 | # 064 |
 |------|------|------|------|
 | ![](cards/17.jpg) | ![](cards/26.jpg) | ![](cards/51.jpg) | ![](cards/64.jpg) |
 
@@ -80,11 +82,9 @@ season-00-super-mario-bros/
 
 ## Status
 
-✅ Collection Completed
-
-✅ Printed Version Produced
-
-✅ Documentation Available
+- [x] Collection Completed
+- [x] Printed Version Produced
+- [x] Documentation Avaliable
 
 ---
 

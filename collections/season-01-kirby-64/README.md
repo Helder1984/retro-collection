@@ -6,6 +6,12 @@
 
 ---
 
+## Collection Overview
+
+![Collection Overview](previews/overview.jpg)
+
+---
+
 ## About
 
 Season 01 is the second collection of the Retro Collection project.
@@ -20,33 +26,79 @@ Based on Kirby 64: The Crystal Shards, this collection aims to capture the chara
 |-----------|-----------|
 | Collection | Kirby 64: The Crystal Shards |
 | Season | 01 |
-| Code | S01 |
 | Status | In Development |
+| Total Cards | 146 |
+| Card Size | 4 cm × 6 cm |
+| Resolution | 300 DPI |
+| Format | Physical Collectible Cards |
+| Numbering | 065–210 |
 | Platform | Nintendo 64 |
 | Release Year | 2000 |
 
 ---
 
+## Design Features
+
+- Retro-inspired collectible card design
+- Frame visual system
+- Sequential card numbering
+- Print-ready format
+- Consistent visual identity
+- Inspired by 1990s promotional collectibles
+
+---
+
+## Featured Cards
+
+| # 001 | # 016 | # 032 | # 064 |
+|------|------|------|------|
+
+---
+
 ## Documentation
 
+### Collection Specification
+
+Detailed technical information:
+
 - [Collection Specification](collections-specification.md)
-- [Character List](character-list.md)
+
+### Card Index
+
+Complete catalog of all cards:
+
 - [Card Index](card-index.md)
 
 ---
 
-## Progress
+## Repository Structure
 
-- [x] Collection created
-- [x] Collection specification completed
-- [ ] Character research
-- [ ] Card production
-- [ ] Collection overview
-- [ ] Printing
-- [ ] Final release
+```text
+season-01-kirby-64/
+
+├── cards/
+├── previews/
+├── raws/
+├── card-index.md
+├── collection-specification.md
+└── README.md
+```
+
+---
+
+
+## Status
+
+- [x] Collection Completed
+- [ ] Printed Version Produced
+- [ ] Documentation Avaliable
 
 ---
 
 ## Retro Collection
 
-Part of the Retro Collection project.
+Season 01 is part of the Retro Collection Project, a series of collectible card collections inspired by classic games, retro culture and promotional collectibles from the 1990s.
+
+---
+
+*Retro Collection © 2026*

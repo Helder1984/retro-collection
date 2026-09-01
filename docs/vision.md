@@ -29,3 +29,9 @@ The project aims to recreate the experience of collecting classic video game cha
 - Super Mario Bros
 - 64 cards
 - Physical edition produced
+
+### Season 01 In Development
+
+- Kirby 64: The Crystal Shards
+- 146 cards
+- Digital edition produced

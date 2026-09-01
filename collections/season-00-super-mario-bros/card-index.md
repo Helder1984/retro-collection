@@ -1,6 +1,18 @@
-# Card Index
+# Cards List
 
-| Nº | Nome |
+## Collection Information
+
+Collection: Super Mario Bros
+
+Season: 00
+
+Status: Complete
+
+---
+
+# Characters
+
+| Nº | Name |
 |----|------|
 | 001 | Mini Mario - Walking |
 | 002 | Mini Mario - Die|
@@ -33,9 +45,23 @@
 | 029 | Mini Peach |
 | 030 | Peach |
 | 031 | Toad |
+
+---
+
+# Screens
+
+| Nº | Names |
+|----|-----------|
 | 032 | Screen - Game Over |
 | 033 | Screen - Luigi Time Up |
 | 034 | Screen - Mario Time Up |
+
+---
+
+# Enemis
+
+| Nº | Name |
+|----|-----------|
 | 035 | Bullet Bill |
 | 036 | Bill Blaster |concha de koopa
 | 037 | Koopa Troopa - Red |
@@ -58,6 +84,13 @@
 | 054 | Blooper |
 | 055 | Hammer Bro |
 | 056 | Lakitu |
+
+---
+
+# Itens and Objects
+
+| Nº | Name |
+|----|-----------|
 | 057 | Trampolim - Red |
 | 058 | Trampolim - Green |
 | 059 | Moeda |
@@ -65,4 +98,11 @@
 | 061 | Cogumelo 1 UP |
 | 062 | Fire Flower |
 | 063 | Star |
+
+---
+
+# Boss
+
+| Nº | Name |
+|----|-----------|
 | 064 | Bowser |

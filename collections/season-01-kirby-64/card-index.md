@@ -35,29 +35,22 @@ Status: In Development
 
 ---
 
-# Stone Abilities
-
-| Nº | Name |
-|----|-----------|
-| 083 | Chuchu Statue |
-| 084 | Coo Statue |
-| 085 | Kine Statue |
-| 086 | Nago Statue |
-| 087 | Pitch Statue |
-| 088 | Rick Statue |
-
----
-
 # Regular Abilities
 
 | Nº | Name |
 |----|-----------|
-| 089 | Cutter |
-| 090 | Burn |
-| 091 | Ice |
-| 092 | Needle |
-| 093 | Spark |
-| 094 | Stone |
+| 083 | Stone |
+| 084 | Coo Statue |
+| 085 | Kine Statue |
+| 086 | Chuchu Statue |
+| 087 | Pitch Statue |
+| 088 | Rick Statue |
+| 089 | Nago Statue |
+| 090 | Cutter |
+| 091 | Burn |
+| 092 | Ice |
+| 093 | Needle |
+| 094 | Spark |
 | 095 | Bomb |
 
 ---
@@ -98,8 +91,7 @@ Status: In Development
 | 119 | Snare |
 | 120 | Snowflake |
 | 121 | Static Electricity |
-| 122 | Stone Friends |
-| 123 | Volcano |
+| 122 | Volcano |
 
 ---
 
@@ -107,6 +99,7 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
+| 123 | Zoos |
 | 124 | Bivolt |
 | 125 | Blowfish |
 | 126 | Bo |
@@ -161,18 +154,19 @@ Status: In Development
 | 175 | Sandman |
 | 176 | Sawyer |
 | 177 | Scarfy |
-| 178 | Sir Kibble |
-| 179 | Skud |
-| 180 | Slushy |
-| 181 | Snipper |
-| 182 | Spark-i |
-| 183 | Sparky |
-| 184 | Squibby |
-| 185 | Tick |
-| 186 | Turbite |
-| 187 | Whispy Woods Jr. |
-| 188 | Yariko |
-| 189 | Zoos |
+| 178 | Scarfy Angry|
+| 179 | Sir Kibble |
+| 180 | Skud |
+| 181 | Slushy |
+| 182 | Snipper |
+| 183 | Spark-i |
+| 184 | Sparky |
+| 185 | Squibby |
+| 186 | Tick |
+| 187 | Turbite |
+| 188 | Whispy Woods Jr. |
+| 189 | Yariko |
+
 
 
 ---
@@ -181,56 +175,33 @@ Status: In Development
 
 | Nº | Name |
 |----|-----------|
-| 190 | Pix |
-| 191 | Waddle Doo |
-| 192 | Adeleine |
-| 193 | King Dedede |
-| 194 | Whispy Woods |
-| 195 | Acro |
-| 196 | Magman |
-| 197 | HR-H |
-| 198 | Miracle Matter |
-| 199 | 0² |
+| 190 | 0² |
+| 191 | Pix |
+| 192 | Waddle Doo |
+| 193 | Adeleine |
+| 194 | King Dedede |
+| 195 | Whispy Woods |
+| 196 | Acro |
+| 197 | Magman |
+| 198 | HR-H |
+| 199 | Miracle Matter |
+
 
 ---
 
-# Itens
+# Itens and Objects
 
 | Nº | Name |
 |----|-----------|
-| 200 | 1 UP |
-| 201 | Maxim Tomato |
-| 202 | Crystal Shard |
-| 203 | Yellow Star |
-| 204 | Ability Stars |
+| 200 | Ability Stars |
+| 201 | 1 UP |
+| 202 | Maxim Tomato |
+| 203 | Crystal Shard |
+| 204 | Yellow Star |
+| 205 | Gordo |
+| 206 | Shotzo |
+| 207 | Splinter |
+| 208 | I³ |
+| 209 | Whall Shotzo |
+| 210 | Zebon |
 
----
-
-
-# Objects
-
-| Nº | Name |
-|----|-----------|
-| 205 | Shotzo |
-| 206 | Splinter |
-| 207 | I³ |
-| 208 | Whall Shotzo |
-| 209 | Zebon |
-| 210 | Gordo |
----
-
-# Notes
-
-- Card numbering follows the Retro Collection global numbering system.
-- Season 01 begins after Season 00.
-- Final numbering will be assigned after the collection scope is finalized.
-
-Referências
-
-https://wikirby.com/wiki/Kirby_64:_The_Crystal_Shards
-
-https://models.spriters-resource.com/nintendo_64/kirby64/
-
-https://wikirby.com/wiki/Kirby_64:_The_Crystal_Shards/gallery
-
-https://wikirby.com/wiki/Enemy_Info_Card#Enemy_Info_Card

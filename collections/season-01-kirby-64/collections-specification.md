@@ -6,7 +6,7 @@ Theme: Kirby 64: The Crystal Shards
 
 Code: S01
 
-Card Count: 145
+Card Count: 146
 
 Status: Development
 
@@ -30,23 +30,27 @@ The collection follows the visual and production standards established in Season
 
 ### Card Distribution
 
-Total Cards: ??
+Total Cards: 146
 
-Hero Cards: ??
+Characters Cards: 18
 
-Enemy Cards: ??
+Regular Abilities Cards: 13
 
-Boss Cards: ??
+Double Abilities Cards: 07
 
-Item Cards: ??
+Combos Abilities Cards: 20
 
-Screen Cards: ??
+Enemis Cards: 67
+
+Bosses Cards: 10
+
+Item and Objects Cards: 11
 
 ---
 
 ## Numbering System
 
-Cards numbered from 64 to ??
+Cards numbered from 065 to 210
 
 ---
 

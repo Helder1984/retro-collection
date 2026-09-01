@@ -34,9 +34,9 @@ Inspired by collectible promotional items and licensed merchandise popular throu
 
 Format:
 
-01  
-02  
-03  
+001  
+002  
+003  
 ...
 
 Collection completed with 64 cards.
@@ -49,9 +49,9 @@ Continuous global numbering.
 
 Example:
 
-65  
-66  
-67  
+065  
+066  
+067  
 ...
 
 ---

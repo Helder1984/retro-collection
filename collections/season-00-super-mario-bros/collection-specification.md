@@ -30,21 +30,21 @@ Developed to validate the visual system, production workflow, and printing proce
 
 Total Cards: 64
 
-Hero Cards: 31
+Characters Cards: 31
 
 Enemy Cards: 19
 
-Boss Cards: 1
+Screen Cards: 03
 
-Item Cards: 10
+Item and Objects: Cards: 10
 
-Screen Cards: 3
+Boss Cards: 01
 
 ---
 
 ## Numbering System
 
-Cards numbered from 01 to 64.
+Cards numbered from 001 to 064.
 
 ---
 
