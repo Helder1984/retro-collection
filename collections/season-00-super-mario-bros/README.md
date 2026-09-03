@@ -2,7 +2,7 @@
 
 ## Collection Overview
 
-![Collection Overview](previews/cards-overview.jpg)
+![Collection Overview](previews/collections-overview.jpg)
 
 ---
 
