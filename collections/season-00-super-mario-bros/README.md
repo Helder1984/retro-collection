@@ -44,9 +44,9 @@ Inspired by the collectible tazos and promotional cards popular during the 1990s
 
 ## Featured Cards
 
-| # 001 | # 016 | # 032 | # 064 |
+| # 017 | # 027 | # 051 | # 064 |
 |------|------|------|------|
-| ![](cards/17.jpg) | ![](cards/26.jpg) | ![](cards/51.jpg) | ![](cards/64.jpg) |
+| ![](cards/jpg/017-mario-victory.jpg) | ![](cards/jpg/027-luigi-victory.jpg) | ![](cards/jpg/051-goomba.jpg) | ![](cards/jpg/064-bowser.jpg) |
 
 ----
 
