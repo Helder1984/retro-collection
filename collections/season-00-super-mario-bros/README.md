@@ -2,7 +2,7 @@
 
 ## Collection Overview
 
-![Collection Overview](previews/)
+![Collection Overview](previews/overview.jpg)
 
 ---
 
