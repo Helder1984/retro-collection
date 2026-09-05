@@ -6,7 +6,7 @@ The goal of this project is to design, document and preserve original collectibl
 
 | # 017 | # 027 | # 065 | # 078 |
 |------|------|------|------|
-| ![](collections\season-00-super-mario-bros\cards\jpg\017-mario-victory.jpg) | ![](collections\season-00-super-mario-bros\cards\jpg\027-luigi-victory.jpg) | ![](collections\season-01-kirby-64\cards\jpg\065-kirby.jpg) | ![](collections\season-01-kirby-64\cards\jpg\078-kirby-holding-power-star.jpg) |
+| ![](collections/season-00-super-mario-bros/cards/jpg/017-mario-victory.jpg) | ![](collections/season-00-super-mario-bros/cards/jpg/027-luigi-victory.jpg) | ![](collections/season-01-kirby-64/cards/jpg/065-kirby.jpg) | ![](collections/season-01-kirby-64/cards/jpg/078-kirby-holding-power-star.jpg) |
 
 ---
 
