@@ -8,7 +8,7 @@
 
 ## Collection Overview
 
-![Collection Overview](previews/overview.jpg)
+![Collection Overview](previews/collections-overview.jpg)
 
 ---
 
@@ -50,8 +50,9 @@ Based on Kirby 64: The Crystal Shards, this collection aims to capture the chara
 
 ## Featured Cards
 
-| # 001 | # 016 | # 032 | # 064 |
+| # 065 | # 077 | # 091 | # 116 |
 |------|------|------|------|
+| ![](cards/jpg/065-kirby.jpg) | ![](cards/jpg/077-kirby-holding-enimy.jpg) | ![](cards/jpg/091-burn.jpg) | ![](cards/jpg/116-light-saber.jpg) |
 
 ---
 
