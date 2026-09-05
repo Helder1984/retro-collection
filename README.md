@@ -4,9 +4,9 @@ A collectible card project inspired by the promotional collectibles, tazos and l
 
 The goal of this project is to design, document and preserve original collectible card collections based on classic games and retro culture.
 
-| #01 | #16 | #32 | #64 |
+| # 017 | # 027 | # 065 | # 078 |
 |------|------|------|------|
-| ![](collections/season-00-super-mario-bros/cards/17.jpg) | ![](collections/season-00-super-mario-bros/cards/26.jpg) | ![](collections/season-00-super-mario-bros/cards/51.jpg) | ![](collections/season-00-super-mario-bros/cards/64.jpg) |
+| ![](collections\season-00-super-mario-bros\cards\jpg\017-mario-victory.jpg) | ![](collections\season-00-super-mario-bros\cards\jpg\027-luigi-victory.jpg) | ![](collections\season-01-kirby-64\cards\jpg\065-kirby.jpg) | ![](collections\season-01-kirby-64\cards\jpg\078-kirby-holding-power-star.jpg) |
 
 ---
 
@@ -15,7 +15,7 @@ The goal of this project is to design, document and preserve original collectibl
 | Collection | Season | Cards | Status |
 |------------|---------|--------|---------|
 | Super Mario Bros | 00 | 64 | ✅ Complete |
-| Kirby 64: The Crystal Shards | 01 | ?? | Em Desenvolvimento |
+| Kirby 64: The Crystal Shards | 01 | 146 | Em Desenvolvimento |
 
 ---
 
