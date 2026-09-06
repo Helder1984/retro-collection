@@ -35,7 +35,16 @@ Inspired by the original Super Mario Bros universe.
 
 
 ### 🌟 Season 01 — Kirby 64: The Crystal Shards
-Status: In Development
+
+Inspired by the original Kirby 64.
+
+- Total Cards: 146
+- Status: Complete
+- Physical Version: In Production
+
+📂 Collection:
+
+[Season 01 — Kirby 64: The Crystal Shards](collections/season-01-kirby-64)
 
 ---
 
@@ -67,10 +76,10 @@ Retro Collection/
 ### Completed
 
 - [x] Season 00 — Super Mario Bros
+- [ ] Season 01 - Kirby 64: The Crystal Shards | In Production |
 
 ### Planned
 
-- [ ] Season 01 - Kirby 64: The Crystal Shards | Em Desenvolvimento |
 - [ ] Cards Holders
 
 ---
