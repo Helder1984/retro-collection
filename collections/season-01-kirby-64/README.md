@@ -8,7 +8,7 @@
 
 ## Collection Overview
 
-![Collection Overview](previews/collections-overview.jpg)
+![Collection Overview](previews/collection-overview.jpg)
 
 ---
 
