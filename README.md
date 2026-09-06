@@ -15,7 +15,7 @@ The goal of this project is to design, document and preserve original collectibl
 | Collection | Season | Cards | Status |
 |------------|---------|--------|---------|
 | Super Mario Bros | 00 | 64 | ✅ Complete |
-| Kirby 64: The Crystal Shards | 01 | 146 | Em Desenvolvimento |
+| Kirby 64: The Crystal Shards | 01 | 146 | In Production |
 
 ---
 
